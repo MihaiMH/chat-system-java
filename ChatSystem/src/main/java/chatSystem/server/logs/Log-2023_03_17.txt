@@ -1,0 +1,103 @@
+17/03/2023 00:55:17 - /192.168.87.116:59841 has connected succesfully
+17/03/2023 00:55:19 - User: Mihai tries to log in (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:19 - User: Mihai has logged in successfully (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:19 - A global broadcast for messages has been executed. (Requested by IP: /192.168.87.116:59841 )
+17/03/2023 00:55:21 - User: Mihai tries to send a message (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:21 - User: Mihai has sent a message successfully (IP: /192.168.87.116:59841 ) 
+ Content: Test
+17/03/2023 00:55:22 - User: Mihai tries to send a message (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:22 - User: Mihai has sent a message successfully (IP: /192.168.87.116:59841 ) 
+ Content: 123
+17/03/2023 00:55:24 - User: Mihai tries to send a message (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:24 - User: Mihai has sent a message successfully (IP: /192.168.87.116:59841 ) 
+ Content: Heey
+17/03/2023 00:55:26 - User: Mihai tries to send a message (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:26 - User: Mihai has sent a message successfully (IP: /192.168.87.116:59841 ) 
+ Content: Hiiii
+17/03/2023 00:55:28 - User: Mihai tries to send a message (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:28 - User: Mihai has sent a message successfully (IP: /192.168.87.116:59841 ) 
+ Content: 123
+17/03/2023 00:55:32 - User: Mihai tries to send a message (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:32 - User: Mihai has sent a message successfully (IP: /192.168.87.116:59841 ) 
+ Content: Hellooooo
+17/03/2023 00:55:36 - User: Mihai tries to send a message (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:36 - User: Mihai has sent a message successfully (IP: /192.168.87.116:59841 ) 
+ Content: Okay bye
+17/03/2023 00:55:39 - User: Mihai has disconnected  (IP: /192.168.87.116:59841 )
+17/03/2023 00:55:40 - Connection reseted
+17/03/2023 00:55:58 - /192.168.87.116:59846 has connected succesfully
+17/03/2023 00:56:00 - User:  tries to log in (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:00 - User:  has failed to log in. Reason: Empty or taken username (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:03 - User: Hey tries to log in (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:03 - User: Hey has logged in successfully (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:03 - A global broadcast for messages has been executed. (Requested by IP: /192.168.87.116:59846 )
+17/03/2023 00:56:04 - User: Hey tries to send a message (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:04 - User: Hey has failed to send the message. Reason: Empty message (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:05 - User: Hey tries to send a message (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:05 - User: Hey has failed to send the message. Reason: Empty message (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:08 - User: Hey has disconnected  (IP: /192.168.87.116:59846 )
+17/03/2023 00:56:08 - Connection reseted
+17/03/2023 08:24:29 - /10.154.204.81:49998 has connected succesfully
+17/03/2023 08:24:32 - /10.154.204.81:50002 has connected succesfully
+17/03/2023 08:24:42 - User: Mihai tries to log in (IP: /10.154.204.81:49998 )
+17/03/2023 08:24:42 - User: Mihai has logged in successfully (IP: /10.154.204.81:49998 )
+17/03/2023 08:24:42 - A global broadcast for messages has been executed. (Requested by IP: /10.154.204.81:49998 )
+17/03/2023 08:24:46 - User: Mihai tries to log in (IP: /10.154.204.81:50002 )
+17/03/2023 08:24:46 - User: Mihai has failed to log in. Reason: Empty or taken username (IP: /10.154.204.81:50002 )
+17/03/2023 08:24:49 - User:  tries to log in (IP: /10.154.204.81:50002 )
+17/03/2023 08:24:49 - User:  has failed to log in. Reason: Empty or taken username (IP: /10.154.204.81:50002 )
+17/03/2023 08:24:53 - User: Cristi tries to log in (IP: /10.154.204.81:50002 )
+17/03/2023 08:24:53 - User: Cristi has logged in successfully (IP: /10.154.204.81:50002 )
+17/03/2023 08:24:54 - A global broadcast for messages has been executed. (Requested by IP: /10.154.204.81:50002 )
+17/03/2023 08:24:58 - User: Mihai tries to send a message (IP: /10.154.204.81:49998 )
+17/03/2023 08:24:58 - User: Mihai has sent a message successfully (IP: /10.154.204.81:49998 ) 
+ Content: Noroc
+17/03/2023 08:25:02 - User: Cristi tries to send a message (IP: /10.154.204.81:50002 )
+17/03/2023 08:25:02 - User: Cristi has sent a message successfully (IP: /10.154.204.81:50002 ) 
+ Content: DAROVA
+17/03/2023 08:25:13 - User: Mihai tries to send a message (IP: /10.154.204.81:49998 )
+17/03/2023 08:25:13 - User: Mihai has sent a message successfully (IP: /10.154.204.81:49998 ) 
+ Content: Davai poka
+17/03/2023 08:25:15 - User: Cristi has disconnected  (IP: /10.154.204.81:50002 )
+17/03/2023 08:25:15 - Connection reseted
+17/03/2023 08:25:27 - /10.154.204.81:50120 has connected succesfully
+17/03/2023 08:25:41 - User: Cristian tries to log in (IP: /10.154.204.81:50120 )
+17/03/2023 08:25:41 - User: Cristian has logged in successfully (IP: /10.154.204.81:50120 )
+17/03/2023 08:25:41 - A global broadcast for messages has been executed. (Requested by IP: /10.154.204.81:50120 )
+17/03/2023 08:25:47 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:25:47 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: aaf
+17/03/2023 08:25:52 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:25:52 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: afsf
+17/03/2023 08:25:53 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:25:53 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: as
+17/03/2023 08:25:55 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:25:55 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: df
+17/03/2023 08:26:05 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:26:05 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: gsdg
+17/03/2023 08:26:07 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:26:07 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: asd
+17/03/2023 08:26:11 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:26:11 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: sdf
+17/03/2023 08:26:13 - User: Cristian tries to send a message (IP: /10.154.204.81:50120 )
+17/03/2023 08:26:13 - User: Cristian has sent a message successfully (IP: /10.154.204.81:50120 ) 
+ Content: gsdg
+17/03/2023 08:26:20 - User: Cristian has disconnected  (IP: /10.154.204.81:50120 )
+17/03/2023 08:26:20 - Connection reseted
+17/03/2023 08:26:26 - User: Mihai has disconnected  (IP: /10.154.204.81:49998 )
+17/03/2023 08:26:27 - Connection reseted
+17/03/2023 08:33:42 - /10.154.204.81:50278 has connected succesfully
+17/03/2023 08:33:45 - User: Mihai tries to log in (IP: /10.154.204.81:50278 )
+17/03/2023 08:33:45 - User: Mihai has logged in successfully (IP: /10.154.204.81:50278 )
+17/03/2023 08:33:45 - A global broadcast for messages has been executed. (Requested by IP: /10.154.204.81:50278 )
+17/03/2023 08:33:47 - User: Mihai tries to send a message (IP: /10.154.204.81:50278 )
+17/03/2023 08:33:47 - User: Mihai has sent a message successfully (IP: /10.154.204.81:50278 ) 
+ Content: Hi
+17/03/2023 08:33:50 - User: Mihai has disconnected  (IP: /10.154.204.81:50278 )
+17/03/2023 08:33:50 - Connection reseted
