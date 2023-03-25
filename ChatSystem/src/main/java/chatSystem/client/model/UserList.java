@@ -19,7 +19,7 @@ public class UserList
     this.chatClientImplementation = chatClientImplementation;
   }
 
-  public static UserList getInstance(
+  public synchronized static UserList getInstance(
       ChatClientImplementation chatClientImplementation,
       ArrayList<User> userList)
   {
@@ -30,7 +30,7 @@ public class UserList
     return instance;
   }
 
-  public static UserList getInstance()
+  public synchronized static UserList getInstance()
   {
     return instance;
   }

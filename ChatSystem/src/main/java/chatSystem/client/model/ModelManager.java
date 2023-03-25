@@ -25,7 +25,7 @@ public class ModelManager
     support.addPropertyChangeListener(propertyName, listener);
   }
 
-  public void removePropertChangeListener(String propertyName,
+  public void removePropertyChangeListener(String propertyName,
       PropertyChangeListener listener)
   {
     support.removePropertyChangeListener(propertyName, listener);

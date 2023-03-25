@@ -18,7 +18,7 @@ public class MessageList
     this.chatClientImplementation = chatClientImplementation;
   }
 
-  public static MessageList getInstance(
+  public synchronized static MessageList getInstance(
       ChatClientImplementation chatClientImplementation,
       ArrayList<Message> messageList)
   {
@@ -29,7 +29,7 @@ public class MessageList
     return instance;
   }
 
-  public static MessageList getInstance()
+  public synchronized static MessageList getInstance()
   {
     return instance;
   }

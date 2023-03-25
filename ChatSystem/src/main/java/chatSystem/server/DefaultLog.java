@@ -14,8 +14,6 @@ public class DefaultLog
 
   private DefaultLog()
   {
-    String homePath = System.getProperty("user.home");
-    // Default download dir on Windows. (~/Downloads on other systems).
     logDirectory = new File("ChatSystem/src/main/java/chatSystem/server/logs");
     currentTime = new CurrentTime();
   }

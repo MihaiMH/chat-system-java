@@ -39,19 +39,14 @@ public class ChatViewModel implements PropertyChangeListener
     this.support = new PropertyChangeSupport(this);
   }
 
-  public void bindName(StringProperty property)
-  {
-    property.bindBidirectional(name);
-  }
-
   public void bindUsers(ObjectProperty<ObservableList<User>> property)
   {
     property.bindBidirectional(users);
   }
 
-  public void bindMessages(ObjectProperty<ObservableList<Message>> proerty)
+  public void bindMessages(ObjectProperty<ObservableList<Message>> property)
   {
-    proerty.bindBidirectional(messages);
+    property.bindBidirectional(messages);
   }
 
   public void addPropertyChangeListener(String propertyName,

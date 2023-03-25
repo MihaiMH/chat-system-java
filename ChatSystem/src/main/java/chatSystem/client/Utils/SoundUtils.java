@@ -38,17 +38,4 @@ public class SoundUtils {
     sdl.stop();
     sdl.close();
   }
-
-  public static void main(String[] args) throws Exception {
-
-    Thread.sleep(1000);
-    SoundUtils.tone(100,1000);
-    Thread.sleep(1000);
-    SoundUtils.tone(5000,100);
-    Thread.sleep(1000);
-    SoundUtils.tone(400,500);
-    Thread.sleep(1000);
-    SoundUtils.tone(400,500, 0.2);
-
-  }
 }

@@ -15,9 +15,6 @@ import java.util.ArrayList;
 public class ChatClientImplementation implements ChatClient
 {
 
-  private static final String EXIT_JSON = """
-      {"message": "exit"}
-      """;
   private final Socket socket;
   private final PrintWriter output;
   private final BufferedReader input;
