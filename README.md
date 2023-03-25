@@ -2,6 +2,7 @@
 This is a simple chat system developed in JAVA for an assignment at the University.
 
 **General Information**
+
 A client-server system desiged for chatting. Users are able to log in, chat, view other connected users and choose to receive a notification or mute them when a new message arrives.
 
 
